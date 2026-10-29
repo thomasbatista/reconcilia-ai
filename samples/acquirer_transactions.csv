@@ -1,0 +1,10 @@
+nsu_operacao;data_liquidacao;valor_creditado;detalhe_transacao
+TX-1001;15/10/2026;150,00;PIX Recebido - Instantâneo
+TX-1002;16/10/2026;1890,50;Captura Crédito Cielo - D+1
+TX-1003;15/10/2026;2425,00;Crédito Parcelado Visa (Líquido)
+TX-1004;15/10/2026;340,00;Débito Elo Liquidado
+TX-1005;16/10/2026;780,00;Crédito Master Rotativo
+TX-1007;16/10/2026;125,00;Terminal POS Balcão - Venda Direta
+TX-1008;15/10/2026;1200,00;Compensação Boleto Bancário
+TX-1009;17/10/2026;546,00;Crédito Master Stone (Líquido)
+TX-1010;17/10/2026;89,90;PIX Recebido

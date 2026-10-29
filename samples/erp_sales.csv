@@ -1,0 +1,10 @@
+id_venda;data_emissao;valor_bruto;descricao_produto
+TX-1001;15/10/2026;R$ 150,00;Venda PIX - Cafeteira
+TX-1002;15/10/2026;R$ 1.890,50;Venda Crédito - Smartphone Galaxy
+TX-1003;15/10/2026;R$ 2.500,00;Venda Crédito Visa 3x - Notebook Dell
+TX-1004;10/10/2026;R$ 340,00;Venda Débito Elo - Monitor 29
+TX-1005;16/10/2026;R$ 780,00;Venda Cartão Master - Cadeira Gamer
+TX-1006;16/10/2026;R$ 450,00;Ecommerce - Teclado Mecânico (Pedido #8491)
+TX-1008;14/10/2026;R$ 1.200,00;Boleto Bancário - Fone JBL
+TX-1009;17/10/2026;R$ 560,00;Venda Crédito Master - Carregador Anker
+TX-1010;17/10/2026;R$ 89,90;Venda PIX - Cabo HDMI 2.0
