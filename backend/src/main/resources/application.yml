@@ -1,0 +1,21 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: reconcilia-ai-backend
+  servlet:
+    multipart:
+      max-file-size: 10MB
+      max-request-size: 20MB
+
+reconcilia:
+  ai:
+    # Optional API key for LLM explanations (OpenAI or Gemini format)
+    # Can be passed via environment variable RECONCILIA_AI_API_KEY or OPENAI_API_KEY
+    api-key: ${RECONCILIA_AI_API_KEY:${OPENAI_API_KEY:}}
+    api-url: ${RECONCILIA_AI_API_URL:https://api.openai.com/v1/chat/completions}
+    model: ${RECONCILIA_AI_MODEL:gpt-4o-mini}
+  matching:
+    default-date-tolerance-days: 1
+    default-amount-tolerance: 0.00
